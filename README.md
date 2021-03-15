@@ -3,9 +3,19 @@ A Guide to show cool Websites and Programms to make your Minecraft life better
 
 # <h2> Commands
 * [MCStacker](mcstacker.net)
+  * 1.7 - 1.17
+  * Java (and bedrock idk lol)
+
+
+
+# <h2> Minecraft Logo
+  * [Textcraft](textcraft.net)
   
   
-  
+
+
+
+
 
 
 # This is an <h1> tag
