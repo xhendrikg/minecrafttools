@@ -17,10 +17,10 @@ A Guide to show cool Websites and Programms to make your Minecraft life better
   * [FontMeme](fontmeme.com/minecraft)
   
 # <h2> Texture Packs / Texture Packs / Datapacks
-  1. [Vanilla Tweaks](vanillatweaks.net)
-  2. 2
-  3. 3
-  4. 4
+  * [Vanilla Tweaks](vanillatweaks.net)
+    * Texture and Data Packs
+    * Customziable
+  
 
 # <h2> Seed Map
   * [Chunkbase](chunkbase.com)
