@@ -32,8 +32,10 @@ A Guide to show cool Websites and Programms to make your Minecraft life better
      * Search Feature and Tags
 
 # <h2> Shape Generator
+  * [Plotz](plotz.co.uk)
+    * Many Models
   * [PixelCircle](donatstudios.com/PixelCircleGenerator)
-     * Only 1 y
+     * Only Ellipse
      * Only Circle / Oval
   * [VoxelSphere](oranj.io/blog/VoxelSphereGenerator)
      * Circle, Cone and more
@@ -65,6 +67,10 @@ A Guide to show cool Websites and Programms to make your Minecraft life better
      * Calculates Angel how you need to look to get to a exact coordinate
    * [Block Path](blocktools.deep-orbit.com/#path:~:text=Block%20Path,-FIND)
      * Can be used to make nether roof carpet highways (like in hermitcraft i think)
+
+# <h2> Armor Stand Pose Generator
+   * [Haselkern](haselkern.com/Minecraft-ArmorStand)
+     * Userfriendly Tool for 1.8 - 1.16 that generates a armor stand 
 
 
 https://bimbimma.com/minecraftmurals/
