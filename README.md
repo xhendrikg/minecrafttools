@@ -1,10 +1,15 @@
 # minecrafttools
 A Guide to show cool Websites and Programms to make your Minecraft life better
 
-# <h2> Commands
+#  <h2> Command Generator
 * [MCStacker](mcstacker.net)
   * 1.7 - 1.17
   * Java (and bedrock idk lol)
+* [DigMinecraft](https://www.digminecraft.com/generators/index.php)
+  * 1.8 - 1.16
+  * Java and Bedrock
+ 
+ 
 
 
 
