@@ -4,17 +4,17 @@ A Guide to show cool Websites and Programms to make your Minecraft life better
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/xhendrikg/minecrafttools?style=plastic"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/xhendrikg/minecrafttools?style=plastic"><img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/xhendrikg/minecrafttools?style=plastic">
 
 #  <h2> Command Generator
-1. [MCStacker](mcstacker.net)
+* [MCStacker](mcstacker.net)
    * 1.7 - 1.17
    * Java (and bedrock idk lol)
-2. [DigMinecraft](https://www.digminecraft.com/generators/index.php)
+* [DigMinecraft](https://www.digminecraft.com/generators/index.php)
    * 1.8 - 1.16
    * Java and Bedrock
  
  # <h2> Minecraft Logo
-  1. [Textcraft](textcraft.net)
+  * [Textcraft](textcraft.net)
       * test
-  3. [FontMeme](fontmeme.com/minecraft)
+  * [FontMeme](fontmeme.com/minecraft)
   
 # <h2> Texture Packs / Texture Packs / Datapacks
   1. [Vanilla Tweaks](vanillatweaks.net)
@@ -23,19 +23,44 @@ A Guide to show cool Websites and Programms to make your Minecraft life better
   4. 4
 
 # <h2> Seed Map
-  1. [Chunkbase](chunkbase.com)
+  * [Chunkbase](chunkbase.com)
      * 1.7 - 1.16
-  2. [MineAtlas](mineatlas.com)
+  * [MineAtlas](mineatlas.com)
      * (1.8)
 
+# <h2> Shape Generator
+  * [PixelCircle](donatstudios.com/PixelCircleGenerator)
+     * Only 1 y
+     * Only Circle / Oval
+  * [VoxelSphere](oranj.io/blog/VoxelSphereGenerator)
+     * Circle, Cone and more
+     * Layer per Layer
+     * 3D
+
+# <h2> Nether Portal Calculator
+  * [Mavenspun](mavenspun.com/games/minecraft/)
+     * Good Looking
+
+# <h2> Minecraft Wiki
+  * [Gamepedia](minecraft.gamepedia.com/Minecraft_Wiki)
+      * Can find anything
+  * (Fandome is finnaly dead, i didnt liked it lol)
+
+# <h2> Mapart
+  * [MapartCraft](rebane2001.com/mapartcraft)
+    * Creates a nbt File for you to help build a mapart
+    * Let you choose which blocks to use
+    * 1.12 - 1.16.5
+    * Many options
+  * [MCMapItemTool](mc-map.djfun.de)
+    * Generates map (.dat) File from photos that you upload
+    * Let you choose how many maps you want
+    * Prevents old map files to be overrided
 
 
-  
 
 
-
-
-
+https://bimbimma.com/minecraftmurals/
 
 # This is an <h1> tag
 ## This is an <h2> tag
