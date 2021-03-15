@@ -1,6 +1,8 @@
 # Minecrafttools
 A Guide to show cool Websites and Programms to make your Minecraft life better
 
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/xhendrikg/minecrafttools?style=plastic"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/xhendrikg/minecrafttools?style=plastic"><img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/xhendrikg/minecrafttools?style=plastic">
+
 #  <h2> Command Generator
 1. [MCStacker](mcstacker.net)
    * 1.7 - 1.17
@@ -19,6 +21,15 @@ A Guide to show cool Websites and Programms to make your Minecraft life better
   2. 2
   3. 3
   4. 4
+
+# <h2> Seed Map
+  1. [Chunkbase](chunkbase.com)
+     * 1.7 - 1.16
+  2. [MineAtlas](mineatlas.com)
+     * (1.8)
+
+
+
   
 
 
@@ -84,3 +95,8 @@ supported
 - [x] list syntax required (any
 unordered or ordered list
 supported)
+
+
+<details>
+  <summary>Spoiler warning</summary>
+  </details>
