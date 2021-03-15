@@ -26,6 +26,10 @@ A Guide to show cool Websites and Programms to make your Minecraft life better
      * 1.7 - 1.16
   * [MineAtlas](mineatlas.com)
      * (1.8)
+  * [Minecraft Seed](minecraftseeds.io)
+     * Filter and browse for Seeds
+     * Java and Bedrock
+     * Search Feature and Tags
 
 # <h2> Shape Generator
   * [PixelCircle](donatstudios.com/PixelCircleGenerator)
