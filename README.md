@@ -7,7 +7,7 @@ A Guide to show cool Websites and Programms to make your Minecraft life better
 * [MCStacker](mcstacker.net)
    * 1.7 - 1.17
    * Java (and bedrock idk lol)
-* [DigMinecraft](https://www.digminecraft.com/generators/index.php)
+* [DigMinecraft](www.digminecraft.com/generators/index.php)
    * 1.8 - 1.16
    * Java and Bedrock
  
@@ -16,12 +16,11 @@ A Guide to show cool Websites and Programms to make your Minecraft life better
       * test
   * [FontMeme](fontmeme.com/minecraft)
   
-# <h2> Texture Packs / Texture Packs / Datapacks
+# <h2> Texture- & Datapacks
   * [Vanilla Tweaks](vanillatweaks.net)
     * Texture and Data Packs
     * Customziable
   
-
 # <h2> Seed Map
   * [Chunkbase](chunkbase.com)
      * 1.7 - 1.16
@@ -57,7 +56,11 @@ A Guide to show cool Websites and Programms to make your Minecraft life better
     * Let you choose how many maps you want
     * Prevents old map files to be overrided
 
-
+# <h2> Location
+   * [Direction Finder](blocktools.deep-orbit.com/#direction:~:text=worlds.-,Direction%20Finder)
+     * Calculates Angel how you need to look to get to a exact coordinate
+   * [Block Path](blocktools.deep-orbit.com/#path:~:text=Block%20Path,-FIND)
+     * Can be used to make nether roof carpet highways (like in hermitcraft i think)
 
 
 https://bimbimma.com/minecraftmurals/
