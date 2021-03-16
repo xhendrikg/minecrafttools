@@ -72,5 +72,29 @@ A Guide to show cool Websites and Programms to make your Minecraft life better
    * [Haselkern](haselkern.com/Minecraft-ArmorStand)
      * Userfriendly Tool for 1.8 - 1.16 that generates a armor stand 
 
+# <h2> Banner Generator
+    * [Needcoolshohes](needcoolshoes.com/banner)
+      * Lots of Features
+      * Generates Command 
+
+# <h2> Player Heads
+    * [FreshCoal](freshcoal.com/maincollection.php)
+      * Generates Command
+      * Filter
+      * Custome Player Heads
+    * [Minecraft Heads](minecraft-heads.com)
+
+# <h2> Other 
+  * [Minecraft Ids](minecraft-ids.grahamedgecombe.com)
+    * Shows Minecraft IDs of Blocks
+  * [Minecraft.tools](minecraft.tools)
+    * Many Generators
+
+# <h2> Potion Guide
+   * [PotionCraft](potioncraft.net)
+      * Shows all Potion Recipes
+      * 1.9
+      * Last updated 2016
+
 
 https://bimbimma.com/minecraftmurals/
