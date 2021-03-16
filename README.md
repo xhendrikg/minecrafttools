@@ -1,7 +1,7 @@
 # Minecrafttools
 A Guide to show cool Websites and Programms to make your Minecraft life better
 
-<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/xhendrikg/minecrafttools?style=plastic"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/xhendrikg/minecrafttools?style=plastic"><img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/xhendrikg/minecrafttools?style=plastic">
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/xhendrikg/minecrafttools?style=plastic">  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/xhendrikg/minecrafttools?style=plastic">  <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/xhendrikg/minecrafttools?style=plastic">
 
 #  <h2> Command Generator
 * [MCStacker](mcstacker.net)
