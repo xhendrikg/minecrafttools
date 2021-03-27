@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="230" viewBox="0 0 100 100">
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+    </style>
+  </defs>
+
+<rect x="0.75"
+  y="0.75"
+  rx="50"
+  ry="50"
+  width="98.5"
+  height="98.5"
+  fill="#6A5ACD"></rect>
+
+<text x="50"
+  y="50"
+  dx="1"
+  dy="-0.5"
+  fill="white"
+  font-size="23"
+  font-family="Dancing Script"
+  font-weight=""
+  text-anchor="middle"
+  dominant-baseline="central">xHendrikg</text>
+
+<rect x="0.75"
+  y="0.75"
+  rx="50"
+  ry="50"
+  width="98.5"
+  height="98.5"
+  fill-opacity="0"
+  stroke="black"
+  stroke-width="1.5"></rect>
+</svg>
